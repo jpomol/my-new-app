@@ -1,0 +1,11 @@
+body{
+	margin: 0 auto;
+	color: black;
+	width: 960px;
+}
+ul{
+	padding: 0;	
+}
+ul li{
+	display: inline-block;
+}
